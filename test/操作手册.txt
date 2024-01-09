@@ -1,0 +1,36 @@
+正确情况：
+1.备份还原
+打包：
+源地址:E:\Files\code\cpp\softwaredesign\test\source
+目的地址:E:\Files\code\cpp\softwaredesign\test\mid_tar
+还原：
+源地址:E:\Files\code\cpp\softwaredesign\test\mid_tar
+目的地址:E:\Files\code\cpp\softwaredesign\test\dist_tar
+2.压缩解压
+源地址:E:\Files\code\cpp\softwaredesign\test\source
+目的地址:E:\Files\code\cpp\softwaredesign\test\mid_zip
+还原：
+源地址:E:\Files\code\cpp\softwaredesign\test\mid_zip
+目的地址:E:\Files\code\cpp\softwaredesign\test\dist_zip
+
+3.所有功能：打包压缩加密及其还原
+源地址:E:\Files\code\cpp\softwaredesign\test\source
+目的地址:E:\Files\code\cpp\softwaredesign\test\mid_full
+还原：
+源地址:E:\Files\code\cpp\softwaredesign\test\mid_full
+目的地址:E:\Files\code\cpp\softwaredesign\test\dist_full
+
+错误情况：
+1. 密码错误
+正确密码 123456
+错误密码12345678
+
+2. 编辑框内容为空
+源地址为空
+
+3. 地址错误
+正确源地址:
+E:\Files\code\cpp\softwaredesign\test
+错误源地址:
+E:\Files\code\cpp\softwaredesign\test\wrong
+目的地址:E:\Files\code\cpp\softwaredesign\test\mid_tar
