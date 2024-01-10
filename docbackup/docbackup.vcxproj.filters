@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\docbackup\docbackup\docbackup_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\docbackup\docbackup\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\docbackup\docbackup\widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\docbackup\docbackup\docbackup_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\docbackup\docbackup\docbackup_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\docbackup\docbackup\docbackup_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\docbackup\docbackup\widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\docbackup\docbackup\dirent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\docbackup\docbackup\myTar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\docbackup\docbackup\path.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\docbackup\docbackup\zip_encry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\docbackup\docbackup\docbackup_autogen\include_Debug\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\docbackup\docbackup\docbackup_autogen\include_Release\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\docbackup\docbackup\docbackup_autogen\include_MinSizeRel\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\docbackup\docbackup\docbackup_autogen\include_RelWithDebInfo\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\docbackup\docbackup\CMakeFiles\e1ebe91603b102dc7a2083e939d061ed\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\docbackup\docbackup\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\docbackup\docbackup\widget.ui" />
+    <None Include="D:\docbackup\docbackup\docbackup_autogen\autouic_Debug.stamp" />
+    <None Include="D:\docbackup\docbackup\docbackup_autogen\autouic_Release.stamp" />
+    <None Include="D:\docbackup\docbackup\docbackup_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="D:\docbackup\docbackup\docbackup_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5E7D409B-8DA9-3A4B-AB6A-10FCBFB4754A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3392D2BF-9C0D-3AC1-B169-6115A0B2209C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E17588AD-8B87-38A8-A24B-CE6D821AA708}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

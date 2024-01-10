@@ -1,0 +1,4 @@
+D:/docbackup/docbackup/CMakeFiles/docbackup.dir
+D:/docbackup/docbackup/CMakeFiles/INSTALL.dir
+D:/docbackup/docbackup/CMakeFiles/ALL_BUILD.dir
+D:/docbackup/docbackup/CMakeFiles/ZERO_CHECK.dir
